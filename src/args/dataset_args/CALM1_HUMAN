@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/CALM1_HUMAN_1_b0.5.a2m
+--data_sheet
+CALM1_HUMAN_Roth2017
+--metric_column
+screenscore
+--query_protein
+./data/files/alignments/CALM1_HUMAN_1_b0.5.a2m

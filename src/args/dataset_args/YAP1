@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/YAP1_HUMAN_1_b0.5.a2m
+--data_sheet
+YAP1_HUMAN_Fields2012-singles
+--metric_column
+linear
+--query_protein
+./data/files/alignments/YAP1_HUMAN_1_b0.5.a2m

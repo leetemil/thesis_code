@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/KKA2_KLEPN_1_b0.3.a2m
+--data_sheet
+KKA2_KLEPN_Mikkelsen2014
+--metric_column
+Kan18_avg
+--query_protein
+./data/files/alignments/KKA2_KLEPN_1_b0.3.a2m

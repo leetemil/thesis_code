@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/TPK1_HUMAN_1_b0.25.a2m
+--data_sheet
+TPK1_HUMAN_Roth2017
+--metric_column
+screenscore
+--query_protein
+./data/files/alignments/TPK1_HUMAN_1_b0.25.a2m

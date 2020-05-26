@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/B3VI55_LIPSTSTABLE_1_b0.5.a2m
+--data_sheet
+B3VI55_LIPSTSTABLE
+--metric_column
+SelectionTwo
+--query_protein
+./data/files/alignments/B3VI55_LIPSTSTABLE_1_b0.5.a2m

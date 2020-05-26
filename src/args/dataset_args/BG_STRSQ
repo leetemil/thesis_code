@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/BG_STRSQ_1_b0.5.a2m
+--data_sheet
+BG_STRSQ_hmmerbit
+--metric_column
+enrichment
+--query_protein
+./data/files/alignments/BG_STRSQ_1_b0.5.a2m

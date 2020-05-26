@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/MTH3_HAEAESTABILIZED_1_b0.5.a2m
+--data_sheet
+MTH3_HAEAESTABILIZED_Tawfik2015
+--metric_column
+Wrel_G17_filtered
+--query_protein
+./data/files/alignments/MTH3_HAEAESTABILIZED_1_b0.5.a2m

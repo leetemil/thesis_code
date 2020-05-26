@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/TPMT_HUMAN_1_b0.35.a2m
+--data_sheet
+TPMT_HUMAN_Fowler2018
+--metric_column
+score
+--query_protein
+./data/files/alignments/TPMT_HUMAN_1_b0.35.a2m

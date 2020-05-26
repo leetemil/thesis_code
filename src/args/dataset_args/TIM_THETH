@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/P84126_THETH_1_b0.5.a2m
+--data_sheet
+P84126_THETH_b0
+--metric_column
+fitness
+--query_protein
+./data/files/alignments/P84126_THETH_1_b0.5.a2m

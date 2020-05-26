@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/RL401_YEAST_1_b0.5.a2m
+--data_sheet
+RL401_YEAST_Fraser2016
+--metric_column
+DMSO
+--query_protein
+./data/files/alignments/RL401_YEAST_1_b0.5.a2m

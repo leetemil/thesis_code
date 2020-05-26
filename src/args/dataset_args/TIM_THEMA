@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/TRPC_THEMA_1_b0.5.a2m
+--data_sheet
+TIM_THEMA_b0
+--metric_column
+fitness
+--query_protein
+./data/files/alignments/TRPC_THEMA_1_b0.5.a2m

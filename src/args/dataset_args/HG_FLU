@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/HG_FLU_1_b0.5.a2m
+--data_sheet
+HG_FLU_Bloom2016
+--metric_column
+transformed_pref
+--query_protein
+./data/files/alignments/HG_FLU_1_b0.5.a2m

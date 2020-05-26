@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/PTEN_HUMAN_1_b0.3.a2m
+--data_sheet
+PTEN_HUMAN_Fowler2018
+--metric_column
+score
+--query_protein
+./data/files/alignments/PTEN_HUMAN_1_b0.3.a2m

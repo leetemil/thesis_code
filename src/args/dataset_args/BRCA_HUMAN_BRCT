@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/BRCA1_HUMAN_BRCT_1_b0.3.a2m
+--data_sheet
+BRCA1_HUMAN_BRCT
+--metric_column
+function_score
+--query_protein
+./data/files/alignments/BRCA1_HUMAN_BRCT_1_b0.3.a2m

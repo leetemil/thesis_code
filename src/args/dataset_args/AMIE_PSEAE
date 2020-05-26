@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/AMIE_PSEAE_1_b0.3.a2m
+--data_sheet
+AMIE_PSEAE_Whitehead
+--metric_column
+isobutyramide_normalized_fitness
+--query_protein
+./data/files/alignments/AMIE_PSEAE_1_b0.3.a2m

@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/POLG_HCVJF_1_b0.5.a2m
+--data_sheet
+POLG_HCVJF_Sun2014
+--metric_column
+fitness
+--query_protein
+./data/files/alignments/POLG_HCVJF_1_b0.5.a2m

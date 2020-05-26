@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/PA_FLU_1_b0.5.a2m
+--data_sheet
+PA_FLU_Sun2015
+--metric_column
+RF_index
+--query_protein
+./data/files/alignments/PA_FLU_1_b0.5.a2m

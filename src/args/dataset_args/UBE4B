@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/UBE4B_MOUSE_1_b0.45.a2m
+--data_sheet
+UBE4B_MOUSE_Klevit2013-singles
+--metric_column
+log2_ratio
+--query_protein
+./data/files/alignments/UBE4B_MOUSE_1_b0.45.a2m

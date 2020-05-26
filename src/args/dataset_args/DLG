@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/DLG4_RAT_hmmerbit_plmc_n5_m30_f50_t0.2_r300-400_id100_b50.a2m
+--data_sheet
+DLG4_RAT_Ranganathan2012
+--metric_column
+CRIPT
+--query_protein
+./data/files/alignments/DLG4_RAT_hmmerbit_plmc_n5_m30_f50_t0.2_r300-400_id100_b50.a2m

@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/BLAT_ECOLX_hmmerbit_plmc_n5_m30_f50_t0.2_r24-286_id100_b105.a2m
+--data_sheet
+BLAT_ECOLX_Ostermeier2014
+--metric_column
+linear
+--query_protein
+./data/files/alignments/BLAT_ECOLX_hmmerbit_plmc_n5_m30_f50_t0.2_r24-286_id100_b105.a2m

@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/BF520_env_1_b0.5.a2m
+--data_sheet
+BF520_env_Bloom2018
+--metric_column
+fitness
+--query_protein
+./data/files/alignments/BF520_env_1_b0.5.a2m

@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/PABP_YEAST_hmmerbit_plmc_n5_m30_f50_t0.2_r115-210_id100_b48.a2m
+--data_sheet
+PABP_YEAST_Fields2013-singles
+--metric_column
+linear
+--query_protein
+./data/files/alignments/PABP_YEAST_hmmerbit_plmc_n5_m30_f50_t0.2_r115-210_id100_b48.a2m

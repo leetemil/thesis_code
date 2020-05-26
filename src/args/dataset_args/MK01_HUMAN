@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/MK01_HUMAN_1_b0.6.a2m
+--data_sheet
+MK01_HUMAN_Johannessen
+--metric_column
+DOX_Average
+--query_protein
+./data/files/alignments/MK01_HUMAN_1_b0.6.a2m

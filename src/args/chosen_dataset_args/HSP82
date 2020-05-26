@@ -1,0 +1,8 @@
+--data
+./data/files/alignments/HSP82_YEAST_1_b0.5.a2m
+--data_sheet
+HSP82_YEAST_Bolon2016
+--metric_column
+selection_coefficient
+--query_protein
+./data/files/alignments/HSP82_YEAST_1_b0.5.a2m
