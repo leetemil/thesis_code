@@ -172,8 +172,7 @@ if __name__ == "__main__" or __name__ == "__console__":
             mutant_data = next(mutants_fn)
 
             plot_tsne(args.results_dir / Path("tsne.png"), args.figure_type, model, all_data, rho, args.batch_size, show = show, only_subset_labels = subset_labels)
-            breakpoint()
-
+            
             plot_protein_family_and_mutations(
                 model = model,
                 protein_family_data = all_data,
