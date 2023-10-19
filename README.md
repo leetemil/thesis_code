@@ -1,6 +1,6 @@
 ## Readme 
 
-*Real readme coming soon. 2020/05/26 snapshot of code.*
+*~~~Real readme coming soon.~~~ 2020/05/26 snapshot of code.*
 
 For now, find the Bayesian VAE and WaveNet reimplementations (in PyTorch) under ```src/models```. Each model has a python script in ```src/``` for running training instances with that model. For example
 ```
